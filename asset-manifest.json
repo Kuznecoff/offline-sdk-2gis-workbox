@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.12dae86e.css",
-    "main.js": "./static/js/main.602e8452.js",
-    "static/js/787.2039d84d.chunk.js": "./static/js/787.2039d84d.chunk.js",
-    "service-worker.js": "./service-worker.js",
-    "index.html": "./index.html",
-    "main.12dae86e.css.map": "./static/css/main.12dae86e.css.map",
-    "main.602e8452.js.map": "./static/js/main.602e8452.js.map",
-    "787.2039d84d.chunk.js.map": "./static/js/787.2039d84d.chunk.js.map"
+    "main.css": "/offline-sdk-2gis-workbox/static/css/main.12dae86e.css",
+    "main.js": "/offline-sdk-2gis-workbox/static/js/main.86f747b8.js",
+    "static/js/787.2039d84d.chunk.js": "/offline-sdk-2gis-workbox/static/js/787.2039d84d.chunk.js",
+    "service-worker.js": "/offline-sdk-2gis-workbox/service-worker.js",
+    "index.html": "/offline-sdk-2gis-workbox/index.html",
+    "main.12dae86e.css.map": "/offline-sdk-2gis-workbox/static/css/main.12dae86e.css.map",
+    "main.86f747b8.js.map": "/offline-sdk-2gis-workbox/static/js/main.86f747b8.js.map",
+    "787.2039d84d.chunk.js.map": "/offline-sdk-2gis-workbox/static/js/787.2039d84d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12dae86e.css",
-    "static/js/main.602e8452.js"
+    "static/js/main.86f747b8.js"
   ]
 }
